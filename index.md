@@ -12,11 +12,11 @@ WeChat:liuxu-xiufeng &ensp;&ensp;&ensp; Website: XiufengXu.github.io
 
 ### RESEARCH AND INTERNSHIP EXPERIENCE
 #### Peking University Infosec Laboratory – Beijing, China &ensp;&ensp;&ensp; Jul. 2019 - Jul. 2020 
-##### Student Researcher
+**Student Researcher** <br>
 • Research content includes Blockchain-based decentralized application and its migration, text semantic
 analysis by using big data analysis technology
 #### Baidu.com Times Technology (Beijing) Co., Ltd – Beijing, China &ensp;&ensp;&ensp; Nov. 2016 - Apr. 2017 
-##### Front-end Intern Engineer
+**Front-end Intern Engineer** <br>
 • Developed Columbus cards different from natural search results for mobile Baidu, such as weather,
 constellation and other modules
 
