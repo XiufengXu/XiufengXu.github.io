@@ -28,10 +28,9 @@ constellation and other modules
 
 ### EXTRA-CURRICULAR ACTIVITIES
 #### Bauhinia Community – Zhejiang, China &ensp;&ensp;&ensp; Feb. 2020 – Apr. 2020
-##### Volunteer Body Temperature Tester
-• Tested community residents’ body temperature every day to ensure that no one get COVID-19 or find potential infected patients in time
+• Volunteer Body Temperature Tester——Tested community residents’ body temperature every day to ensure that no one get COVID-19 or find potential infected patients in time
 #### Team of PKU Winter Holiday Social Practices – Zhejiang, China &ensp;&ensp;&ensp; Sept. 2018 – Jan. 2019
-##### Team Leader
+**Team Leader**
 • Organized teammates to investigated rural areas and provided a research report based on local situation of economic development
 #### Beijing Fashion Week – Beijing, China &ensp;&ensp;&ensp; Sept. 2018 – Oct. 2018
 ##### Volunteer English Tour Guide
