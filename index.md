@@ -2,8 +2,7 @@
 Email: xuxiufeng@pku.edu.cn      Phone Number: +86 19801304696
 ### Education
 #### Peking University - Beijing, China &ensp;&ensp;&ensp; Sept. 2018 – Jul. 2020
-• Bachelor of Engineering, Major in Software Engineering; GPA: 3.8/4.0
-<br>
+• Bachelor of Engineering, Major in Software Engineering; GPA: 3.8/4.0 <br>
 • Honors: Outstanding graduates, 05/2020; Merit Student, 12/2019; Third-class scholarship, 12/2019; First Prize in Quality Education Speech Competition, 12/2018
 #### Harbin University of Science and Technology – Harbin, China  &ensp;&ensp;&ensp; Sept. 2014 - Jul. 2018 
 • Bachelor of Engineering, Major in Automation <br>
@@ -28,15 +27,31 @@ constellation and other modules
 
 ### EXTRA-CURRICULAR ACTIVITIES
 #### Bauhinia Community – Zhejiang, China &ensp;&ensp;&ensp; Feb. 2020 – Apr. 2020
-• Volunteer Body Temperature Tester——Tested community residents’ body temperature every day to ensure that no one get COVID-19 or find potential infected patients in time
+**Volunteer Body Temperature Tester** <br>
+• Tested community residents’ body temperature every day to ensure that no one get COVID-19 or find potential infected patients in time
 #### Team of PKU Winter Holiday Social Practices – Zhejiang, China &ensp;&ensp;&ensp; Sept. 2018 – Jan. 2019
-**Team Leader**
+**Team Leader** <br>
 • Organized teammates to investigated rural areas and provided a research report based on local situation of economic development
 #### Beijing Fashion Week – Beijing, China &ensp;&ensp;&ensp; Sept. 2018 – Oct. 2018
-##### Volunteer English Tour Guide
+**Volunteer English Tour Guide** <br>
 • Guided English native speakers to enter the corresponding areas and introduced them to this activity
 
 
+
+### PROJECT EXPERIENCE
+#### Weather and constellation display cards on mobile Baidu.
+• Utilized PHP template engine Smarty3 and Javascript template engine Etpl to construct online display cards on Mobile Baidu application with effective function
+#### Data analysis competition with 20 million pieces of data
+• Participated in a data analysis competition with 20 million pieces of data and gained the first prize. <br>
+• Utilized SQL to filter out valid information and established algorithm model, such as random forest and xgboost, to analyze those data
+#### Home Page of Yingruiyun Co., Ltd.
+• Constructed with HTML, CSS, JS and kept running for two years.
+#### Cookie English Application
+• Utilized node.js to implement back-end logic and constructed mobile application with HTML5 <br>
+• Introduced voice recognition module for user to practice their pronunciation 
+#### Zhihu Recommended Components
+• Divided components, implemented components with React, and reconstructed data flow with Redux <br>
+• Converted State and dispatch into props and passed them to subcomponents with connect
 
 
 
