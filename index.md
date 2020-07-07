@@ -1,5 +1,5 @@
 ### Xiufeng Xu
-Email: xuxiufeng@pku.edu.cn  &ensp;&ensp;&ensp;    Phone Number: +86 19801304696
+Email: xuxiufeng@pku.edu.cn  &ensp;&ensp;&ensp;    Phone Number: +86 19801304696 <br>
 WeChat:liuxu-xiufeng &ensp;&ensp;&ensp; Website: XiufengXu.github.io
 ### Education
 #### Peking University - Beijing, China &ensp;&ensp;&ensp; Sept. 2018 – Jul. 2020
