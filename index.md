@@ -1,5 +1,5 @@
 ## Xiufeng Xu
-Email: xuxiufeng@pku.edu.cn  &ensp;&ensp;&ensp;    Phone Number: +86 19801304696 <br>
+Email: xuxiufeng@pku.edu.cn  &ensp;&ensp;&ensp;    Phone Number: +86 19801304696 / +65 87717746 <br>
 WeChat: xiufeng-liuxu &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Website: XiufengXu.github.io
 ### Education
 #### Nanyang Technological University - Singapore &ensp;&ensp;&ensp; Sept. 2021 - 
