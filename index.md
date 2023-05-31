@@ -2,16 +2,20 @@
 Email: xuxiufeng@pku.edu.cn  &ensp;&ensp;&ensp;    Phone Number: +86 19801304696 / +65 87717746 <br>
 WeChat: xiufeng-liuxu &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Website: XiufengXu.github.io
 ### Education
-#### Nanyang Technological University - Singapore &ensp;&ensp;&ensp; Sept. 2021 - 
-#### Peking University - Beijing, China &ensp;&ensp;&ensp; Sept. 2018 - Jul. 2020
+#### Nanyang Technological University - Singapore &ensp;&ensp;&ensp; Sept. 2021 - Now
+• Pursuing for PhD degree, Major in Software Engineering
+#### Peking University - China &ensp;&ensp;&ensp; Sept. 2018 - Jul. 2020
 • Bachelor of Engineering, Major in Software Engineering; GPA: 3.8/4.0; Rank: 8/130 <br>
 • Honors: Outstanding graduates, 05/2020; Merit Student, 12/2019; Third-class scholarship, 12/2019; First Prize in Quality Education Speech Competition, 12/2018
-#### Harbin University of Science and Technology - Harbin, China  &ensp;&ensp;&ensp; Sept. 2014 - Jul. 2018 
+#### Harbin University of Science and Technology - China  &ensp;&ensp;&ensp; Sept. 2014 - Jul. 2018 
 • Bachelor of Engineering, Major in Automation <br>
 • Honors: Merit Student, 12/2015; Third-class scholarship, 09/2015, 04/2015; Best Debater of the 18th FLTRP*JD.com CUP National English Debating Competition, 03/2015
 
 
 ### RESEARCH AND INTERNSHIP EXPERIENCE
+#### NTU Cyber Security Laboratory - Singapore &ensp;&ensp;&ensp; Jul. 2021 - Now 
+**Research Assistant & PhD Student** <br>
+• Research content includes behavior incompatibility of Java, privacy problem of AI-based software, and blockchain.
 #### Peking University Infosec Laboratory - Beijing, China &ensp;&ensp;&ensp; Jul. 2019 - Jul. 2020 
 **Student Researcher** <br>
 • Research content includes Blockchain-based decentralized application and its migration, text semantic
@@ -23,8 +27,9 @@ constellation and other modules
 
 
 ### PUBLICATIONS
-• Xiufeng Xu. 2020. Towards Automated Migration for Blockchain-based Decentralized Application. In 42nd International Conference on Software Engineering Companion (ICSE ’20 Companion). (Accepted) <br>
-• Xiufeng Xu. 2020. Estel: An Automated Migration Checking Tool for Blockchain-based Decentralized Application. The 35th IEEE/ACM International Conference on Automated Software Engineering (ASE). (Submitted)
+• Xiufeng Xu, Chenguang Zhu, Yi Li. 2023. CompSuite: A Dataset of Java Library Upgrade Incompatibility Issues. In the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023). (Submitted) <br>
+• Zhu, C., Zhang, M., Wu, X., Xu, X., & Li, Y. (2022). Client-Specific Upgrade Compatibility Checking via Knowledge-Guided Discovery. ACM Transactions on Software Engineering and Methodology. (Accepted) <br>
+• Xiufeng Xu. 2020. Towards Automated Migration for Blockchain-based Decentralized Application. In 42nd International Conference on Software Engineering Companion (ICSE ’20 Companion). (Accepted) 
 
 
 ### EXTRA-CURRICULAR ACTIVITIES
