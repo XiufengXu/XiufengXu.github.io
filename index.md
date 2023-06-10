@@ -1,6 +1,6 @@
 ## Xiufeng Xu
 Email: xiufeng001@e.ntu.edu.sg / xuxiufeng@pku.edu.cn    Phone Number: +86 19801304696 / +65 87717746 <br>
-WeChat: xiufeng-liuxu &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Website: XiufengXu.github.io
+WeChat: xiufeng-liuxu &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Website: XiufengXu.github.io
 ### Education
 #### Nanyang Technological University - Singapore &ensp;&ensp;&ensp; Sept. 2021 - Now
 • Pursuing for PhD degree, Major in Software Engineering
